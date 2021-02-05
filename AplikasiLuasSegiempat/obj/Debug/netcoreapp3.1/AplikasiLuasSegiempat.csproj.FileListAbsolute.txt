@@ -1,0 +1,13 @@
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\bin\Debug\netcoreapp3.1\AplikasiLuasSegiempat.exe
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\bin\Debug\netcoreapp3.1\AplikasiLuasSegiempat.deps.json
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\bin\Debug\netcoreapp3.1\AplikasiLuasSegiempat.runtimeconfig.json
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\bin\Debug\netcoreapp3.1\AplikasiLuasSegiempat.runtimeconfig.dev.json
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\bin\Debug\netcoreapp3.1\AplikasiLuasSegiempat.dll
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\bin\Debug\netcoreapp3.1\AplikasiLuasSegiempat.pdb
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.csprojAssemblyReference.cache
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.AssemblyInfoInputs.cache
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.AssemblyInfo.cs
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.csproj.CoreCompileInputs.cache
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.dll
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.pdb
+D:\Curiousity\BasicOOP\AplikasiLuasSegiempat\obj\Debug\netcoreapp3.1\AplikasiLuasSegiempat.genruntimeconfig.cache

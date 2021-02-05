@@ -1,0 +1,13 @@
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.csprojAssemblyReference.cache
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.AssemblyInfoInputs.cache
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.AssemblyInfo.cs
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.csproj.CoreCompileInputs.cache
+D:\Curiousity\BasicOOP\AplikasiGameKeren\bin\Debug\netcoreapp3.1\AplikasiGameKeren.exe
+D:\Curiousity\BasicOOP\AplikasiGameKeren\bin\Debug\netcoreapp3.1\AplikasiGameKeren.deps.json
+D:\Curiousity\BasicOOP\AplikasiGameKeren\bin\Debug\netcoreapp3.1\AplikasiGameKeren.runtimeconfig.json
+D:\Curiousity\BasicOOP\AplikasiGameKeren\bin\Debug\netcoreapp3.1\AplikasiGameKeren.runtimeconfig.dev.json
+D:\Curiousity\BasicOOP\AplikasiGameKeren\bin\Debug\netcoreapp3.1\AplikasiGameKeren.dll
+D:\Curiousity\BasicOOP\AplikasiGameKeren\bin\Debug\netcoreapp3.1\AplikasiGameKeren.pdb
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.dll
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.pdb
+D:\Curiousity\BasicOOP\AplikasiGameKeren\obj\Debug\netcoreapp3.1\AplikasiGameKeren.genruntimeconfig.cache

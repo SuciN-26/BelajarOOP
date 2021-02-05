@@ -1,0 +1,13 @@
+D:\Curiousity\BasicOOP\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+D:\Curiousity\BasicOOP\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+D:\Curiousity\BasicOOP\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+D:\Curiousity\BasicOOP\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+D:\Curiousity\BasicOOP\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+D:\Curiousity\BasicOOP\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+D:\Curiousity\BasicOOP\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache

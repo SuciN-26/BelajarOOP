@@ -1,0 +1,13 @@
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\bin\Debug\netcoreapp3.1\NegeriMonster.exe
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\bin\Debug\netcoreapp3.1\NegeriMonster.deps.json
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\bin\Debug\netcoreapp3.1\NegeriMonster.runtimeconfig.json
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\bin\Debug\netcoreapp3.1\NegeriMonster.runtimeconfig.dev.json
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\bin\Debug\netcoreapp3.1\NegeriMonster.dll
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\bin\Debug\netcoreapp3.1\NegeriMonster.pdb
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.AssemblyInfoInputs.cache
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.AssemblyInfo.cs
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.csproj.CoreCompileInputs.cache
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.dll
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.pdb
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.genruntimeconfig.cache
+D:\Curiousity\BasicOOP\BelajarOOP\NegeriMonster\obj\Debug\netcoreapp3.1\NegeriMonster.csprojAssemblyReference.cache

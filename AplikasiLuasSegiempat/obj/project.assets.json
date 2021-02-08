@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curiousity\\BasicOOP\\AplikasiLuasSegiempat\\AplikasiLuasSegiempat.csproj",
+      "projectUniqueName": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\AplikasiLuasSegiempat\\AplikasiLuasSegiempat.csproj",
       "projectName": "AplikasiLuasSegiempat",
-      "projectPath": "D:\\Curiousity\\BasicOOP\\AplikasiLuasSegiempat\\AplikasiLuasSegiempat.csproj",
+      "projectPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\AplikasiLuasSegiempat\\AplikasiLuasSegiempat.csproj",
       "packagesPath": "C:\\Users\\tppy\\.nuget\\packages\\",
-      "outputPath": "D:\\Curiousity\\BasicOOP\\AplikasiLuasSegiempat\\obj\\",
+      "outputPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\AplikasiLuasSegiempat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

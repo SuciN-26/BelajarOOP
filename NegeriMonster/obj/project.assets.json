@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\AplikasiGameKeren\\AplikasiGameKeren.csproj",
-      "projectName": "AplikasiGameKeren",
-      "projectPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\AplikasiGameKeren\\AplikasiGameKeren.csproj",
+      "projectUniqueName": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\NegeriMonster\\NegeriMonster.csproj",
+      "projectName": "NegeriMonster",
+      "projectPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\NegeriMonster\\NegeriMonster.csproj",
       "packagesPath": "C:\\Users\\tppy\\.nuget\\packages\\",
-      "outputPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\AplikasiGameKeren\\obj\\",
+      "outputPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\NegeriMonster\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

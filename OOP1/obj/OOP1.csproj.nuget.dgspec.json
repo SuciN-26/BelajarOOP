@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curiousity\\BasicOOP\\OOP1\\OOP1.csproj": {}
+    "D:\\Curiousity\\BasicOOP\\BelajarOOP\\OOP1\\OOP1.csproj": {}
   },
   "projects": {
-    "D:\\Curiousity\\BasicOOP\\OOP1\\OOP1.csproj": {
+    "D:\\Curiousity\\BasicOOP\\BelajarOOP\\OOP1\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curiousity\\BasicOOP\\OOP1\\OOP1.csproj",
+        "projectUniqueName": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\OOP1\\OOP1.csproj",
         "projectName": "OOP1",
-        "projectPath": "D:\\Curiousity\\BasicOOP\\OOP1\\OOP1.csproj",
+        "projectPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\OOP1\\OOP1.csproj",
         "packagesPath": "C:\\Users\\tppy\\.nuget\\packages\\",
-        "outputPath": "D:\\Curiousity\\BasicOOP\\OOP1\\obj\\",
+        "outputPath": "D:\\Curiousity\\BasicOOP\\BelajarOOP\\OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
